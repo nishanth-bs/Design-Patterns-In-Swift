@@ -1,5 +1,7 @@
-
-
-- [ ] Do not change the `.playground` nor `README.md` manually.
-- [ ] Go to `/source` and edit .swift files.
-- [ ] Run: `generate-playground.sh`
+- [ ] Read [CONTRIBUTING.md](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/CONTRIBUTING.md])
+- [ ] Only edited files inside `source` folder (IMPORTANT) and commited them with a meaningful message
+- [ ] Ran `generate-playground.sh`, no errors
+- [ ] Opened playground, it worked fine
+- [ ] Did not commit the changes caused by `generate-playground.sh`
+- [ ] Linked to and/or created issue
+- [ ] Added a description to PR
